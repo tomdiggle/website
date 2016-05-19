@@ -1,0 +1,12 @@
+    <footer role="contentinfo" class="row footer">
+      <div class="container cf">
+        <p><a href="{{ .Site.BaseURL }}sponsor/" alt="Sponsor {{ .Site.Params.show.name }}">Sponsor {{ .Site.Params.show.name }}</a></p>
+        <p><a href="https://twitter.com/{{ .Site.Params.show.twitter }}" alt="Follow {{ .Site.Params.show.name }} on Twitter">Follow @{{ .Site.Params.show.twitter }} for updates</a></p>
+        <p>&copy; 2016 {{ .Site.Params.author.company }}</p>
+      </div>
+    </footer>
+
+{{ partial "analytics" . }}
+    
+  </body>
+</html>

@@ -1,0 +1,25 @@
+---
+baseurl: "http://nsbrief.com/"
+languageCode: "en-us"
+disableRSS: true
+disableSitemap: true
+metaDataFormat: "yaml"
+title: NSBrief.com
+
+params:
+  description: A podcast for Cocoa developers
+  author:
+    company: Magical Panda Software, LLC
+  show:
+    name: NSBrief
+    intro: A podcast for Cocoa developers talking about interesting developer-y stuff
+    feeds:
+      itunes: https://itunes.apple.com/us/podcast/id399822861
+      rss: http://nsbrief.com/feeds/rss.xml
+    twitter: nsbrief
+    host:
+      name: Saul Mora
+      twitter: casademora
+    next_episode:
+      date: "Sometime"
+      guest: "Someone"

@@ -1,0 +1,28 @@
+<header role="banner" class="row header">
+  <div class="container cf">
+    <div class="grid-45 mobile-grid-100">
+      <h1><a href="{{ .Site.BaseURL }}" alt="{{ .Site.Params.show.name }}">{{ .Site.Params.show.name }}</a></h1>
+      <h2><a href="{{ .Site.BaseURL }}" alt="{{ .Site.Params.show.name }}">{{ .Site.Params.show.name }}</a></h2>
+    </div>
+
+    <div class="grid-55 mobile-grid-100">
+      <p>{{ .Site.Params.show.intro }}</p>
+      <p>Hosted by <a href="https://twitter.com/{{ .Site.Params.show.host.twitter }}" alt="{{ .Site.Params.show.host.name }} on Twitter">{{ .Site.Params.show.host.name }}</a></p>
+      <hr>
+      <p>New Episodes Coming in 2016!!<!-- Next Episode: {{ .Site.Params.show.next_episode.date }} --></p>
+      <p><!-- With {{ .Site.Params.show.next_episode.guest }} --></p>
+    </div>
+  </div>
+
+  <div class="row subscribe">
+    <div class="container cf">
+      <div class="grid-50 mobile-grid-100">
+        <a href="{{ .Site.Params.show.feeds.itunes }}" alt="Subscribe via iTunes" class="btn">Subscribe via iTunes</a>
+      </div>
+
+      <div class="grid-50 mobile-grid-100">
+        <a href="{{ .Site.Params.show.feeds.rss }}" alt="Subscribe via RSS" class="btn right">Subscribe via RSS</a>
+      </div>
+    </div>
+  </div>
+</header>

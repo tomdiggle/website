@@ -1,0 +1,17 @@
+
+{{ partial "header" . }}
+{{ partial "page_header" . }}
+
+<div class="row main-content">
+  <div class="container cf">
+
+    {{ range where .Site.Pages "Section" "episodes" }}
+    
+      {{ partial "episode_micro" . }}
+      
+    {{ end }}
+    
+  </div>
+</div>
+
+{{ partial "footer" . }}
