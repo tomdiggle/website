@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{{ $baseURL := .Site.BaseURL }}    
+{{ $baseURL := .Site.BaseURL }}
 {{ $media := print $baseURL "images" | safeURL }}
 {{ $scripts := print $baseURL "javascripts" | safeURL }}
 {{ $styles := print $baseURL "stylesheets" | safeURL }}
-    
+
 <head>
   <title>{{ .Site.Params.show.name }} &raquo; {{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</title>
   <meta charset="utf-8" />
@@ -19,12 +19,12 @@
   <link rel="stylesheet" href="{{ $styles }}/nsbrief-fonts.css" />
 
   <link rel="shortcut icon" href="{{ $media }}/favicon.ico" />
-  <link rel="apple-touch-icon" size="57x57" href="{{ $media }}/touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ $media }}/touch-icon.png" />
   <link rel="apple-touch-icon" sizes="76x76" href="{{ $media }}/touch-icon.png" />
   <link rel="apple-touch-icon" sizes="120x120" href="{{ $media }}/touch-icon.png" />
   <link rel="apple-touch-icon" sizes="152x152" href="{{ $media }}/touch-icon.png" />
   <link rel="alternate" type="application/rss+xml" title="{{ .Site.Params.show.name }} Main Feed" href="{{ .Site.Params.show.feeds.rss }}" />
-  
+
   <script src="{{ $scripts }}/soundmanager2-nodebug-jsmin.js"></script>
   <script src="{{ $scripts }}/briefplayer-min.js"></script>
 </head>

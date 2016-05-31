@@ -1,6 +1,6 @@
 <article class="episode" id="episode-{{ .Params.episode_number }}">
   <h1 class="title">
-    <a href="{{ .Permalink }}" alt="Episode Number {{ .Params.episode_number }}: {{ .Title }}">
+    <a href="{{ .Permalink }}" title="Episode Number {{ .Params.episode_number }}: {{ .Title }}">
     {{ if isset .Params "episode_number" }}#{{ .Params.episode_number }}: {{ end }}{{ .Title }}
     </a></h1>
   <p class="published icon-calendar-empty"><span>{{ .Date.Format "2006 January 2" }}</span></p>

@@ -3,17 +3,17 @@
 
 <div class="row main-content">
   <div class="container cf">
-    
+
     {{ range first 1 (where .Data.Pages "Section" "episodes") }}
       {{ partial "episode" . }}
     {{ end }}
-    
+
     {{ range first 10 (after 1  (where .Data.Pages "Section" "episodes")) }}
-      {{ partial "episode_micro" . }}        
+      {{ partial "episode_micro" . }}
     {{ end }}
-    
-    <a href="{{ .Site.BaseURL }}archive" alt="View all episodes" class="btn older">Older <span class="icon-right-circle"></span></a>
-    
+
+    <a href="{{ .Site.BaseURL }}archive" title="View all episodes" class="btn older">Older <span class="icon-right-circle"></span></a>
+
   </div>
 </div>
 
