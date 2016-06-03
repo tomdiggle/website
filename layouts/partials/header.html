@@ -15,6 +15,14 @@
   <meta name="description" content="{{ . }}" />
   {{ end }}
 
+  {{ if isset .Params "episode_number" }}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@nsbrief" />
+  <meta name="twitter:title" content="NSBrief #{{ .Params.episode_number }}: {{ .Title }}" />
+  <meta name="twitter:description" content="{{ .Summary }}" />
+  <meta name="twitter:image" content="{{ $media }}/touch-icon.png" />
+  {{ end }}
+
   <link rel="stylesheet" href="{{ $styles }}/nsbrief.css" />
   <link rel="stylesheet" href="{{ $styles }}/nsbrief-fonts.css" />
 
