@@ -7,7 +7,7 @@ categories: [Apps]
 tags: [coremotion, viewcontrollers, transitions]
 episode_number: 118
 url: /118-conrad-stoll
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_118_Conrad_Stoll.m4a"]
+attachments: ["NSBrief_118_Conrad_Stoll.m4a"]
 ---
 
 Conrad Stoll ([@conradstoll](http://twitter.com/conradstoll)) is a developer at Mutual Mobile. In this episode, we talk about some of the new bits in iOS7 and developing with the M7 chip in mind.

@@ -7,7 +7,7 @@ description:
 categories:
 tags: []
 url: /17-jeff-biggus
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_17_jeff_biggus.m4a"]
+attachments: ["nsbrief_17_jeff_biggus.m4a"]
 ---
 
 Jeff Biggus is the founder of HyperJeff, Inc. and cofounder of Big Stone Phone, producing Unix, Mac, iPhone and iPad apps, and custom in-house software for companies specializing in physics and math software. He has been an independent programming consultant for more than 15 years. Jeff cut his teeth on programming back in the early 1980s on the Apple ][+ and by creating the HyperJeff Network in 1994, a site serving the Mac OS X community since Rhapsody, back in 99. Get 15% admission to 360idev by using the code NSBRIEFROCKS at checkout!

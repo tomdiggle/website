@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 9
 url: /9-cathy-shive
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_9_cathy_shive.mp3"]
+attachments: ["nsbrief_9_cathy_shive.mp3"]
 ---
 
 While at NSConference UK 2011, Saul sits down with Cathy Shive ([@catshive](http://twitter.com/catshive)) to talk about aspects of design, and that inevitable topic of girl programmers.

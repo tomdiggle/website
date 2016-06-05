@@ -6,7 +6,7 @@ url: /55-chris-ross
 episode_number: 55
 categories: development
 tags: [tools]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_55_chris_ross.m4a"]
+attachments: ["nsbrief_55_chris_ross.m4a"]
 ---
 
 Chris Ross ([@darkrock](http://twitter.com/darkrock)) is the founder of Hidden Memory, an iOS development firm based in Brighton, UK. He's also recently written and released a handy developer tool called Resource Helper.

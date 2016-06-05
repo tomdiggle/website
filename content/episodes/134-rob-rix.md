@@ -7,7 +7,7 @@ categories: Languages
 tags: []
 episode_number: 134
 url: /134-rob-rix
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_134_rob_rix.m4a"]
+attachments: ["nsbrief_134_rob_rix.m4a"]
 ---
 
 Rob Rix ([@rob_rix](http://twitter.com/rob_rix)) is a developer at Github and works on [Github for Mac](https://mac.github.com/). In this episode, we discuss some of the differences between Object Oriented and Functional Programming and living with Swift.

@@ -7,7 +7,7 @@ categories: 'App Store'
 tags: ['AppStore', stats]
 episode_number: 130
 url: /130-ariel-michaeli
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_130_ariel_michaeli.m4a"]
+attachments: ["nsbrief_130_ariel_michaeli.m4a"]
 ---
 
 

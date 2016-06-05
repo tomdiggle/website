@@ -6,7 +6,7 @@ categories: [development]
 tags: [testing, tdd, unit-tests]
 url: /79-ron-lisle
 episode_number: 79
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_79_ron_lisle.m4a"]
+attachments: ["nsbrief_79_ron_lisle.m4a"]
 ---
 
 Ron Lisle is the Director of iOS Engineering at Mutual Mobile. Ron runs a blog called iosunittesting.com and we sit down to chat with Ron about his thoughts on unit testing and how to test better (or in some cases at all).

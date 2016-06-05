@@ -7,7 +7,7 @@ categories: Conferences
 tags: [live]
 episode_number: 123
 url: /123-nsconfernece-6
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_123_nsconference_6.m4a"]
+attachments: ["nsbrief_123_nsconference_6.m4a"]
 ---
 
 ## Show Notes

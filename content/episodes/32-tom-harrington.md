@@ -7,7 +7,7 @@ duration: '44:18'
 description:
 categories: development
 tags: [core data]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_32_tom_harrington.m4a"]
+attachments: ["nsbrief_32_tom_harrington.m4a"]
 ---
 
 Tom Harrington ([@atomicbird](http://twitter.com/atomicbird)) joins Saul before the local Cocoaheads meeting to discuss several questions around Core Data on [stackoverflow.com](http://www.stackoverflow.com).

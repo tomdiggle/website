@@ -6,7 +6,7 @@ url: /57-stuffmc
 episode_number: 57
 categories: development
 tags: [sandboxing, mac]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_57_stuffmc.m4a"]
+attachments: ["nsbrief_57_stuffmc.m4a"]
 ---
 
 Manuel Carrasco Molina ([@StuffMC](http://twitter.com/stuffmc)) is a podcaster and Cocoa developer. He is also organizing a new European Cocoa confernece, [ObjCGN](http://objcgn.com) in September 2012. In this episode, we discuss his experiences with Mac app sandboxing. NSBrief Listeners can get Early Bird Pricing to ObjCGN [Register Now](https://objcgn.paydro.net/event/aobjective-cologne/NSBrief)!!

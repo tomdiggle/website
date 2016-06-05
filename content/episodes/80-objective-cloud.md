@@ -6,7 +6,7 @@ description:
 categories: [development]
 tags: [cloud, service]
 url: /80-objective-cloud
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_80_objective_cloud.m4a"]
+attachments: ["nsbrief_80_objective_cloud.m4a"]
 episode_number: 80
 ---
 

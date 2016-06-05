@@ -3,7 +3,7 @@ title: BJ Miller
 date: "2015-08-31"
 episode_number: 150
 url: /150-bj-miller
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_150_bj_miller.m4a"]
+attachments: ["nsbrief_150_bj_miller.m4a"]
 duration: "00:37:35"
 tags: []
 categories: []

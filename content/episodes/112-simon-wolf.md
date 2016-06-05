@@ -5,7 +5,7 @@ duration: '1:13:06'
 episode_number: 112
 description:
 categories: [Business]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_112_simon_wolf.m4a"]
+attachments: ["nsbrief_112_simon_wolf.m4a"]
 url: /112-simon-wolf
 ---
 

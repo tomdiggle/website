@@ -6,7 +6,7 @@ description:
 categories: [API, iOS, Women]
 url: /107-michele-titolo
 episode_number: 107
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_107_michele_titolo.m4a"]
+attachments: ["nsbrief_107_michele_titolo.m4a"]
 ---
 
 Michele Titolo ([@micheletitolo](http://twitter.com/micheletitolo)) is a Senior Mobile Engineer at Prolific Interactive. She joins us to talk about web apis, and some things to keep in mind when writing apps for them. We also chat about some of the work Michele does to help encourage women in technology.

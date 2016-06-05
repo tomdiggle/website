@@ -6,7 +6,7 @@ url: /70-jiva-devoe
 episode_number: 70
 categories: development
 tags: [tools, services, syncing, core data, icloud]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_70_jiva_devoe.m4a"]
+attachments: ["nsbrief_70_jiva_devoe.m4a"]
 ---
 
 Jiva Devoe ([@jivadevoe](http://twitter.com/jivadevoe)) is the Chief Software Craftsman at [Random Ideas](http://random-ideas.net). Jiva has developed an alternative to iCloud Core Data Syncing called Wasabi Sync.

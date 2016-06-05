@@ -7,7 +7,7 @@ categories: Audio
 tags: []
 episode_number: 135
 url: /135-michael-tyson
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_135_michael_tyson.m4a"]
+attachments: ["nsbrief_135_michael_tyson.m4a"]
 ---
 
 Michael Tyson([@MichaelTyson](http://twitter.com/michaeltyson)) is the developer of Loopy and Audiobus. He discusses his years roaming Europe in an RV and talks about how he developed an app that has been featured on The Tonight Show with Jimmy Fallon.

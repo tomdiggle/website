@@ -7,7 +7,7 @@ categories: [Testing, Agile]
 tags: [testing]
 episode_number: 105
 url: 105-pete-hodgson
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_105_pete_hodgson.m4a"]
+attachments: ["nsbrief_105_pete_hodgson.m4a"]
 ---
 
 Pete Hodgson ([@ph1](http://twitter.com/ph1)) is an iOS and Ruby Developer at Thoughtworks. He is also creator and maintainer of Frank, an automated UI Testing tool for iOS developers. In this episode, we chat about the principles and practices of agile developers, and testing with frank.

@@ -7,7 +7,7 @@ categories: [development]
 tags: [marketing, development, launching]
 episode_number: 84
 url: /84-mike-lee
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_84_mike_lee.m4a"]
+attachments: ["nsbrief_84_mike_lee.m4a"]
 ---
 
 Mike Lee ([@bmf](http://twitter.com/bmf)) is the Mayor of Appsterdam, and the Alpha Primate at the New Lemurs. Recently, he and his team launched a new game, Lemurs Chemistry" Water. We chat with Mike to discuss his experiences launching this new game.

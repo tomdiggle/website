@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 6
 url: /6-kirby-turner
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_6_kirby_turner.mp3"]
+attachments: ["nsbrief_6_kirby_turner.mp3"]
 ---
 
 Saul and Kirby discuss support in an indie dev shop and the main tool Kirby uses to keep his business running like a well oiled machine.

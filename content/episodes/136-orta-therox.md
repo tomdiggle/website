@@ -7,7 +7,7 @@ categories: Cocoapods
 tags: [OpenSource, Ruby, Community]
 episode_number: 136
 url: /136-orta-therox
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_136_orta_therox.m4a"]
+attachments: ["nsbrief_136_orta_therox.m4a"]
 ---
 
 Orta Therox ([@orta](http://twitter.com/orta)) is the Design Dictator of the CocoaPods project and a prominent member of the Open Source Community. In this conversation, we get to hear about CocoaPods, the importance of kindness, and _why you should contribute to open source.

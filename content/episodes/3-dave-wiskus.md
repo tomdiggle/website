@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 3
 url: /3-dave-wiskus
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_3_dave_wiskus.mp3"]
+attachments: ["nsbrief_3_dave_wiskus.mp3"]
 ---
 
 In this episode, we talk with Lead Designer and Chief Creative Officer at Double Encore, Inc., an iOS development boutique based in Denver, Colorado. Dave and Saul talk about good and bad elements of design in mobile applications, and how developers can help improve their design skills.

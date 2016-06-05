@@ -6,7 +6,7 @@ description:
 categories: [Design]
 tags: [HIG]
 url: /108-phil-letourneau-and-olivier-charavel
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/108_phil_letourneau_and_oliver_charavel.m4a"]
+attachments: ["108_phil_letourneau_and_oliver_charavel.m4a"]
 episode_number: 108
 ---
 

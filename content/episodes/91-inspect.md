@@ -4,7 +4,7 @@ date: '2013-04-09'
 duration: '40:16'
 categories: [development]
 tags: [RubyMotion, Ruby, Conference]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_91_inspect.m4a"]
+attachments: ["nsbrief_91_inspect.m4a"]
 episode_number: 91
 url: /91-inspect
 ---

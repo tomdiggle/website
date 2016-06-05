@@ -7,7 +7,7 @@ categories:
 tags: [server, legacy-code]
 episode_number: 141
 url: /141-chad-fowler
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_141_chad_fowler.m4a"]
+attachments: ["nsbrief_141_chad_fowler.m4a"]
 ---
 
 Chad Fowler is the CTO of Wunderlist, a cross platform todo list app. In this episode, recorded in Istanbul, Turkey, Saul and Chad discuss working with legacy code and infrastructure.

@@ -7,7 +7,7 @@ duration: '48:19'
 description:
 categories: development
 tags: [maps, mapkit, geolocation]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_48_justin_miller.m4a"]
+attachments: ["nsbrief_48_justin_miller.m4a"]
 ---
 
 Justin Miller ([@incanus77](http://twitter.com/incanus77)) hacks on mapping components for Mac and iOS apps at [Development Seed](http://developmentseed.org/). In this episode, we chat with Justin about his most recent project, [MapBox](http://mapbox.com/), a free MapKit replacement for your iOS apps, as well as other free mapping tools for use from the awesome guys at Development Seed.

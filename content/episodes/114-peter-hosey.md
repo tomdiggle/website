@@ -6,7 +6,7 @@ description:
 categories: [Design]
 tags: [UserInterface]
 episode_number: 114
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_114_Peter_Hosey.m4a"]
+attachments: ["NSBrief_114_Peter_Hosey.m4a"]
 url: /114-peter-hosey
 ---
 

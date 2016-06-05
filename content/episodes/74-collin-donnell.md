@@ -6,7 +6,7 @@ url: /74-collin-donnell
 categories: [design]
 tags: [design]
 episode_number: 74
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_73_collin_donnell.m4a"]
+attachments: ["nsbrief_73_collin_donnell.m4a"]
 ---
 
 Collin Donnell ([@collindonnell](http://twitter.com/collindonnell)) is the lead developer at Albina Development, based in Portland, Oregon. Collin has recently built and shipped a well received Pinboard iPhone client called [Pinbook](https://itunes.apple.com/us/app/pinbook-for-pinboard/id564452716?mt=8). In this episodes, we discuss some of the design and engineering challenges encountered during the making of this app.

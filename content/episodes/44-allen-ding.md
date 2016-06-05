@@ -7,7 +7,7 @@ duration: '50:32'
 description: 
 categories: development
 tags: [unit testing]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_44_allen_ding.m4a"]
+attachments: ["nsbrief_44_allen_ding.m4a"]
 ---
 
 Allen Ding ([@alding](http://twitter.com/alding)) is the original author of Kiwi, a popular open source testing framework for iOS. During his European tour, Saul arraigned to meet Allen in [Amsterdam](http://smra.me/GBJL) for a chat on the origins of Kiwi, and where it's going.

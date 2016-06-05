@@ -7,7 +7,7 @@ description:
 categories: design
 tags: []
 url: /16-mike-berg
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_16_mike_berg.m4a"]
+attachments: ["nsbrief_16_mike_berg.m4a"]
 ---
 
 Mike Berg is the President and Lead Designer at We Heart Games, a game development consulting agency. Mike and Saul discuss what makes a good game and why Photoshop sucks.

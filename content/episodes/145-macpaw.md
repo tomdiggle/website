@@ -7,7 +7,7 @@ categories: tools
 tags: [Developer Tools]
 episode_number: 145
 url: /145-macpaw
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_145_Macpaw.m4a"]
+attachments: ["nsbrief_145_Macpaw.m4a"]
 ---
 
 At [altConf](http://altconf.com), Saul ran into the fine folks behind the awesome apps at Macpaw. In this episode, Saul talks with the CEO of Macpaw about a new tool and server for Mac developers, Devmate. If you've thought that it was really tough to release a Mac app outside the Mac App Store, Devmate may have you thinking again.

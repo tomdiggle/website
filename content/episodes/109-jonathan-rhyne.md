@@ -7,7 +7,7 @@ categories: [Legal]
 tags: [Contracts, Law, Business]
 episode_number: 109
 url: /109-jonathan-rhyne
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_109_jonathan_rhyne.m4a"]
+attachments: ["nsbrief_109_jonathan_rhyne.m4a"]
 ---
 
 Jonathan Rhyne ([@jdrhyne](http://twitter.com/jdrhyne)) is an attorney with Smith Debnam in Raleigh, North Carolina. Jonathan joins Saul to talk about the legal necessities of running an app business today, in terms developers can understand. You can contact Jonathan for your legal inquiries at [jdrhyne@gmail.com](mailto:jdrhyne@gmail.com)

@@ -7,7 +7,7 @@ categories: Functional
 tags: [swift, functional-programming]
 episode_number: 137
 url: /137-gordon-fontenot
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_137_gordon_fontenot.m4a"]
+attachments: ["nsbrief_137_gordon_fontenot.m4a"]
 ---
 
 

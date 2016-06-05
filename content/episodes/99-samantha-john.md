@@ -7,7 +7,7 @@ categories: [Products, Education]
 tags: [kids, apps]
 url: /99-samantha-john
 episode_number: 99
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_99_samantha_john.m4a"]
+attachments: ["nsbrief_99_samantha_john.m4a"]
 ---
 
 Samantha John ([@SamJ0hn](http://twitter.com/samj0hn)) is the co-founder of Hopscotch Technologies and co-creator of Daisy the Dinosaur and Hopscotch apps for the iPad that help teach kids about programming. Saul was able to catch up with Samantha at WWDC13 and chat a little about how Daisy the Dinosaur are doing, how they're made, and what's next for these amazing apps.

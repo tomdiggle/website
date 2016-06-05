@@ -7,7 +7,7 @@ duration: '56:54'
 description:
 categories: business
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_36_jacob_gorban.m4a"]
+attachments: ["nsbrief_36_jacob_gorban.m4a"]
 ---
 
 Jacob Gorban ([@apparentsoft](http://twitter.com/apparentsoft)) is the CEO of [Apparent Software](http://www.apparentsoft.com/), an independant Mac software business based in Israel. We discuss how Apparent Software was able to go from a part time hobby to a business large enough to allow him to go full time doing the work he loves.

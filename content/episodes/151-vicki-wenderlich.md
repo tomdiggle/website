@@ -1,5 +1,5 @@
 ---
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_151_vicki_wenderlich.m4a"]
+attachments: ["nsbrief_151_vicki_wenderlich.m4a"]
 date: 2015-09-08
 duration: "00:44;19"
 episode_number: 151

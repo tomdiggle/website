@@ -7,7 +7,7 @@ categories: live
 tags: [360idev]
 episode_number: 5
 url: /5-360idev-conversations
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_5_360idev_austin.mp3"]
+attachments: ["nsbrief_5_360idev_austin.mp3"]
 ---
 
 In this episode, Saul travels to Austin, TX for 360idev and find the hallway conversations riveting.

@@ -6,7 +6,7 @@ description:
 categories: Accessibility
 url: /120-charles-perry
 episode_number: 120
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_120_Charles_Perry.m4a"]
+attachments: ["NSBrief_120_Charles_Perry.m4a"]
 ---
 
 Charles Perry ([@dazeend](http://twitter.com/dazeend)) is the founder of [Metakite Software](http://metakite.com). In this episode, we talk about the perils of running your own business and the importance of adding accessibility in your apps.

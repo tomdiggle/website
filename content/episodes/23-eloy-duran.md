@@ -7,7 +7,7 @@ description:
 categories: development
 tags: [macruby]
 url: /23-eloy-duran
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_23_eloy_duran.m4a"]
+attachments: ["nsbrief_23_eloy_duran.m4a"]
 ---
 
 Eloy Duran recently gave a talk about MacRuby for [SecondConf](http://www.secondconf.com) 2011 in Chicago. Eloy is a [MacRuby](http://www.macruby.org) core team member and consultant at [Fingertips](http://www.fngtps.com) in The Netherlands. Saul and Eloy discussed the MacRuby project, as well as Eloy's new cocoa source dependency manager, CocoaPods.

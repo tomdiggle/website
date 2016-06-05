@@ -7,7 +7,7 @@ categories: development
 tags: [Scene-Kit]
 episode_number: 140
 url: /140-david-ronnqvist
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_140_david_ronnqvist.m4a"]
+attachments: ["nsbrief_140_david_ronnqvist.m4a"]
 ---
 
 David Rönnqvist ([@davidronnqvist](http://twitter.com/davidronnqvist)), author of "3D Graphics With Scene Kit" speaks about why he wrote his book, how he got involved in 3D graphics programming, and how to experiment with creative user interfaces.

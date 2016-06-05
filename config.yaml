@@ -23,3 +23,5 @@ params:
     next_episode:
       date: "Sometime"
       guest: "Someone"
+  episodes:
+    hostURL: http://media.blubrry.com/nsbrief/github.com/nsbrief/episodes/blob/master/<episode>?raw=true

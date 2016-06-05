@@ -2,7 +2,7 @@
 title: Michael Fey
 episode_number: 93
 url: /93-michael-fey
-attachements: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_93_michael_fey.m4a"]
+attachements: ["nsbrief_93_michael_fey.m4a"]
 date: '2013-05-02'
 duration: '1:32:16'
 description:

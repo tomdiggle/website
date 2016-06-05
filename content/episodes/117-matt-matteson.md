@@ -7,7 +7,7 @@ categories: [Startups]
 tags: [Career, methodologies, getting stuff done, silicon valley]
 url: /117-matt-matteson
 episode_number: 117
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_117_Matt_Matteson.m4a"]
+attachments: ["NSBrief_117_Matt_Matteson.m4a"]
 ---
 
 Matt Matteson ([@mattmatt](http://twitter.com/mattmatt)) was the first employee at Path and is currently working on Lift. In this episode, we talk a bit about his adventures in the Silicon Valley startup culture.

@@ -7,7 +7,7 @@ description:
 categories: [development]
 tags: [webobjects, web, services, java]
 url: /89-webobjects
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_89_webobjects.m4a"]
+attachments: ["nsbrief_89_webobjects.m4a"]
 ---
 
 Chuck Hill and Pascal Robert join us to discuss the current state of WebObjects. We discuss some of the history and architecture of WebObjects, and a bit on how you can use it now.

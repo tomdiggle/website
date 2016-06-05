@@ -6,7 +6,7 @@ url: /73-bill-dudney
 episode_number: 73
 categories: development
 tags: [core graphics, ui]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_73_bill_dudney.m4a"]
+attachments: ["nsbrief_73_bill_dudney.m4a"]
 ---
 
 Bill Dudney ([@bdudney](http://twitter.com/bdudney)) is an independent iOS developer, author and former Apple Developer Evangelist. Saul catches up with Bill after a long day of teaching a Pragmatic Studio class to chat about Bill's new iOS Developer Book, and other awesomeness.

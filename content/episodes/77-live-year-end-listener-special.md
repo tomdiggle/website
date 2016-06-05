@@ -5,7 +5,7 @@ duration: '1:34:59'
 url: /77-live-year-end-special
 categories: [general]
 episode_number: 77
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_77_live.m4a"]
+attachments: ["nsbrief_77_live.m4a"]
 ---
 
 For this Special Live End of the Year Edition of NSBrief, we invited listeners to join us for a conversation on various topics. We chatted about the coming up of Appsterdam over the past year. We also discussed the iOS and Mac app stores, some things we'd like to see in iOS7 and the Mac 10.9 APIs.

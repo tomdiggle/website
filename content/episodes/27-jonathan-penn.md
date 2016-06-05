@@ -6,7 +6,7 @@ duration: '54:20'
 categories: [development]
 tags: [metaprogramming]
 url: /27-jonathan-penn
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_27_jonathan_penn.m4a"]
+attachments: ["nsbrief_27_jonathan_penn.m4a"]
 ---
 
 Jonathan Penn ([@jonathanpenn](https://github.com/doubleencore/DETweetComposeViewController

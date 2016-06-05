@@ -7,7 +7,7 @@ categories: Business
 tags: []
 episode_number: 146
 url: /146-virginia-roberts
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_146_virginia_roberts.m4a"]
+attachments: ["nsbrief_146_virginia_roberts.m4a"]
 ---
 
 Virginia Roberts [@askvirginia](http://twitter.com/askvirginia) is a podcaster, MC for the AppCamp4Girls, [Online Dating Coach](http://theheartographer.com) and most recently an app developer. In this episode, Saul and Virginia talk about creating an app from a crazy idea and the business of apps in the current iOS AppStore.

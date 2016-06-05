@@ -7,7 +7,7 @@ duration: '1:13:28'
 description:
 categories: development
 tags: [unit testing]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_40_graham_lee.m4a"]
+attachments: ["nsbrief_40_graham_lee.m4a"]
 ---
 
 Graham Lee ([@iamleeg](http://twitter.com/iamleeg)) is the author of Secure Mac Programming. However, he is also an advocate of Test Driven Development for iOS and Mac developers. In this episode, we discuss some of the principles of testing while still being pragmatic about testing.

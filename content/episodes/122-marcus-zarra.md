@@ -7,7 +7,7 @@ categories: Development
 tags: [Core Data]
 episode_number: 122
 url: /122-marcus-zarra
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_122_marcus_zarra.m4a"]
+attachments: ["nsbrief_122_marcus_zarra.m4a"]
 ---
 
 ## Show Notes

@@ -7,7 +7,7 @@ duration: '55:04'
 description:
 categories: development
 tags: [opencl]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_42_david_kinney.m4a"]
+attachments: ["nsbrief_42_david_kinney.m4a"]
 ---
 
 David Kinney ([@dlkinney](http://twitter.com/dlkinney)) is the lead orgnaizer of [SecondConf](http://secondconf.com), a small confernece aimed at inspiring independent developers. David is also an independent consultant and, in this episode, we dicuss OpenCL development for the Mac.

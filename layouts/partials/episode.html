@@ -1,12 +1,13 @@
+{{ $attachmentsHostURL := .Site.Params.episodes.hostURL }}
 
 {{ range .Params.attachments }}
 <script type="text/javascript">
     soundManager.setup({
-        url: '{{ $.Site.BaseURL }}swf/',
+        url: '{{ print $.Site.BaseURL "swf" | safeURL }}',
         flashVersion: 9,
         preferFlash: true,
         onready: function () {
-            briefPlayer.createSound('{{ . | absURL }}');
+            briefPlayer.createSound('{{ replace $attachmentsHostURL "<episode>" . | absURL }}');
         },
         ontimeout: briefPlayer.events.ontimeout
     });
@@ -40,7 +41,8 @@
     </div>
 
     {{ range .Params.attachments }}
-        <a href="{{ . }}" title="Download Episode" class="download">Download Episode</a>
+    <!-- TODO: Configure statistics and host url -->
+        <a href="{{ replace $attachmentsHostURL "<episode>" . | absURL }}" title="Download Episode" class="download">Download Episode</a>
     {{ end }}
 
     <div class="description">

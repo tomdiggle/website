@@ -6,7 +6,7 @@ url: /59-mark-dalrymple
 episode_number: 59
 categories: development
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_59_mark_dalrymple.m4a"]
+attachments: ["nsbrief_59_mark_dalrymple.m4a"]
 ---
 
 Mark Dalrymple ([@borkware](http://twitter.com/borkware)) is an instructor at the Big Nerd Ranch, an author, and all around funny guy. In this episode, we discuss his awesome book, Advanced Mac OSX Programming, The Big Nerd Ranch Guide and other nerd topics.

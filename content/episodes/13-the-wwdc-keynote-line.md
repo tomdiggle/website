@@ -7,7 +7,7 @@ categories:
 tags: [wwdc]
 episode_number: 13
 url: /13-the-wwdc-keynote-line
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_13_wwdc11_the_line.m4a"]
+attachments: ["nsbrief_13_wwdc11_the_line.m4a"]
 ---
 
 WWDC is the biggest event of the year for Mac and iOS Developers. Every year, we wait in line for the wonders that await us at the Keynote. This year, Saul chats with a few people in line. Trying to strike up a conversation with developers is a little easier when we're all giddy about the keynote!

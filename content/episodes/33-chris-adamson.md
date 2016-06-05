@@ -7,7 +7,7 @@ duration: '1:11:53'
 description:
 categories: development
 tags: [core audio]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_33_chris_adamson.m4a"]
+attachments: ["nsbrief_33_chris_adamson.m4a"]
 ---
 
 Chris Adamson ([@invalidname](http://twitter.com/invalidname)) takes us on a journey through foundations of analog and digital audio. We discuss Core Audio, AVFoundation and nearly everything to do with audio development on iOS and the Mac.

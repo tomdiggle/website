@@ -7,7 +7,7 @@ description:
 categories:
 tags: []
 url: /19-brandon-alexander
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_19_brandon_alexander.m4a"]
+attachments: ["nsbrief_19_brandon_alexander.m4a"]
 ---
 
 The Objective C runtime can be a strange and mysterious place. Brandon Alexander ([@whilethis](http://www.twitter.com/whilethis)) takes us through the landscape to help make the Objective C Runtime a little less scary.

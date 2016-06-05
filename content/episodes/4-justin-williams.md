@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 4
 url: /4-justin-williams
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_4_justin_williams.mp3"]
+attachments: ["nsbrief_4_justin_williams.mp3"]
 ---
 
 In this episode, Saul corners Justin Williams at the 360idev conference in Austin, TX and discusses the latest AppStore releases from SecondGear Software.

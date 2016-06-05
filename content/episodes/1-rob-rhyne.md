@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 1
 url: /1-rob-rhyne
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_1_rob_rhyne.mp3"]
+attachments: ["nsbrief_1_rob_rhyne.mp3"]
 ---
 
 In this episode, Jade and Saul interview Rob Rhyne ([@capttaco](http://twitter.com/capttaco)) of MartianCraft and the creator of Briefs.app.

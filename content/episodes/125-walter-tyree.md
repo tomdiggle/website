@@ -7,7 +7,7 @@ categories:
 tags: [legacy-code]
 episode_number: 125
 url: /125-walter-tyree
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_125_walter_tyree.m4a"]
+attachments: ["nsbrief_125_walter_tyree.m4a"]
 ---
 
 Walter Tyree ([@tyreeapps](http://twitter.com/tyreeapps)) is an independent iOS developer. In this episode, we discuss how Walter handles legacy code bases found when going into new client projects.

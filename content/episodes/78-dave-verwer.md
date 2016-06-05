@@ -6,7 +6,7 @@ url: /78-dave-verwer
 categories: [marketing]
 tags: [AppStore]
 episode_number: 78
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_78_dave_verwer.m4a"]
+attachments: ["nsbrief_78_dave_verwer.m4a"]
 ---
 
 Dave Verwer ([@daveverwer](http://twitter.com/daveverwer)) works at [Shiny Development](http://shinydevelopment.com) based in Sunny England. He's also responsible for the popular weekly newsletter [iOSDevWeekly](http://iosdevweekly.com)

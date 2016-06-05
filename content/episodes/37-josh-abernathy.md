@@ -7,7 +7,7 @@ duration: '45:20'
 description:
 categories: development
 tags: [uikit]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_37_josh_abernathy.m4a"]
+attachments: ["nsbrief_37_josh_abernathy.m4a"]
 ---
 
 Josh Abernathy ([@joshaber](http://twitter.com/joshaber)) is a githubber working on the Github for Mac client. We discuss the technical limitations of AppKit when it comes to Core Animations.

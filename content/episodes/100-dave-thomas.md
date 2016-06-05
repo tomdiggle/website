@@ -7,7 +7,7 @@ categories: ['Development']
 tags: ['Languages']
 url: /100-dave-thomas
 episode_number: 100
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_100_dave_thomas.m4a"]
+attachments: ["nsbrief_100_dave_thomas.m4a"]
 ---
 
 [Dave Thomas](http://gotocon.com/amsterdam-2013/speaker/Dave+Thomas) is an adjunct research professor at Carleton University, and the University Of Queensland and is widely published in the software engineering literature. In this episode, we talk a walk down memory lane and look at languages past and present and compare them to Objective C.

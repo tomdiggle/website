@@ -7,7 +7,7 @@ duration: '42:57'
 description:
 categories: development
 tags: [debugging, tips]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_35_kendal_gelner.m4a"]
+attachments: ["nsbrief_35_kendal_gelner.m4a"]
 ---
 
 Kendall Gelner ([@kendaldevdiary](http://twitter.com/kendaldevdiary)) recently gave a talk on advanced debugging tips and tricks at the local [Boulder iOS developer's](http://boulderios.com) group. Saul caught up with Kendall after the meetup to chat about some of the highlights of this difficult topic.

@@ -5,7 +5,7 @@ duration: '1:33:12'
 description:
 categories: [development, history]
 tags: [history]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_85_gregory_casamento.m4a"]
+attachments: ["nsbrief_85_gregory_casamento.m4a"]
 episode_number: 85
 url: /85-gregory-casamento
 ---

@@ -7,7 +7,7 @@ categories: iOS
 tags: [architecture, design, view controllers]
 episode_number: 131
 url: /131-jay-thrash
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_131_jay_thrash.m4a"]
+attachments: ["nsbrief_131_jay_thrash.m4a"]
 ---
 
 Jay Thrash ([@jaythrash](http://twitter.com/jaythrash)) is a developer at [AllScripts](http://www.allscripts.com) working on medical and health related apps before it was cool. In this episode, Jay and I discuss ways to put your View Controllers on a diet.

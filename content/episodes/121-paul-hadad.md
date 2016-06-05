@@ -4,7 +4,7 @@ date: '2014-04-01'
 duration: '1:14:13'
 description:
 categories: [Engineering]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_121_Paul_Hadad.m4a"]
+attachments: ["NSBrief_121_Paul_Hadad.m4a"]
 url: /121-paul-hadad
 episode_number: 121
 ---

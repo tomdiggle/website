@@ -7,7 +7,7 @@ categories: 'Langauges'
 tags: [code, death-match]
 episode_number: 126
 url: /126-ash-furrow
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_126_ash_furrow.m4a"]
+attachments: ["nsbrief_126_ash_furrow.m4a"]
 ---
 
 Ash Furrow ([@ashfurrow](http://twitter.com/ashfurrow)) is [Saul Mora's](http://twitter.com/casademora) Twitter nemesis. In a battle to the death, those two champions of code fight for the future of developers around the World! See who wins in this blow by blow battle between Objective C, the reigning champion, and the newcomer, Swift!

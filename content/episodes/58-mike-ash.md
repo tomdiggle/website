@@ -6,7 +6,7 @@ url: /58-mike-ash
 episode_number: 58
 categories: development
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_58_mike_ash.m4a"]
+attachments: ["nsbrief_58_mike_ash.m4a"]
 ---
 
 Mike Ash ([@mikeash](http://twitter.com/mikeash)) regularly writes about Cocoa related topics on his popular blog, [NSBlog](http://www.mikeash.com/pyblog/). In this episode, we talk about various things related to Mac, iPhone and Cocoa development. Eventually, we get to the topic of air gliders as a hobby.

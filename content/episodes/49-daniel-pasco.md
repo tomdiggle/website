@@ -5,7 +5,7 @@ url: /49-daniel-pasco
 date: '2012-06-04'
 duration: '1:05:27'
 categories: business
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_49_daniel_pasco.m4a"]
+attachments: ["nsbrief_49_daniel_pasco.m4a"]
 ---
 
 Daniel Pasco ([@dlpasco](http://twitter.com/dlpasco)) is the CEO at Black Pixel, a secret band of iOS and Mac Development ninja assassins. In this episode, Saul chats with Daniel about being a Ninja Assassin, a Rocket Scientist, a Musician and occasionally, a software Developer. We also chat about Black Pixel's recent software acquisitions, releases and other random stuff that came up.

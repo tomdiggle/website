@@ -7,7 +7,7 @@ categories: [development]
 tags: [runtime,github,reactive-cocoa]
 url: /81-justin-spahr-summers
 episode_number: 81
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_81_justin_spahr-summers.m4a"]
+attachments: ["nsbrief_81_justin_spahr-summers.m4a"]
 ---
 
 Justin Spahr-Summers ([@jspahrsummers](http://twitter.com/jspahrsummers)) is a Githubber working on [Github for Mac](http://mac.github.com). He has also written some fun Objective C extensions, and works on Reactive Cocoa. We talk about these projects and more on this episode of NSBrief.

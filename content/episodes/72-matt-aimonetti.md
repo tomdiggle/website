@@ -6,7 +6,7 @@ url: /72-matt-aimonetti
 episode_number: 72
 categories: general
 tags: [ruby, rubymotion, macruby]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_72_matt_aimonetti.m4a"]
+attachments: ["nsbrief_72_matt_aimonetti.m4a"]
 ---
 
 Matt Aimonett ([@merbist](http://twitter.com/merbist)) is a Ruby developer. He's worked on Rails, Merb and many other gems and code important to the Ruby Community. He's also a MacRuby Core Team member and has experience with Objective C. In this episode, we chat about the differences and similarities between Ruby and Objective C and their communities.

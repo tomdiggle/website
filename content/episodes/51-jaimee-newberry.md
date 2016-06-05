@@ -6,7 +6,7 @@ url: /51-jaimee-newberry
 episode_number: 51
 categories: design
 tags: [airplane]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_51_jaimee_newberry.m4a"]
+attachments: ["nsbrief_51_jaimee_newberry.m4a"]
 ---
 
 Jaimee Newberry ([@jaimeejaimee](http://twitter.com/jaimeejaimee)) is a User Exerience Designer at [Black Pixel](http://blackpixel.com). In a chance meeting on the way home from [WWDC](http://developer.apple.com/wwdc), Saul and Jaimee chat on a plane about [#wwdcgirls](http://twitter.com/wwdcgirls).

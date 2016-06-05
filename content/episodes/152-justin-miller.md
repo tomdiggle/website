@@ -1,5 +1,5 @@
 ---
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_152_justin_miller.m4a"]
+attachments: ["nsbrief_152_justin_miller.m4a"]
 date: 2015-09-15
 duration: "00:49:16"
 episode_number: 152

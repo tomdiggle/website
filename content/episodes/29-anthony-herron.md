@@ -7,7 +7,7 @@ duration: '33:28'
 description:
 categories:
 tags: [wwdc]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_29_anthony_heron.m4a"]
+attachments: ["nsbrief_29_anthony_heron.m4a"]
 ---
 
 WWDC will be here before you know it. Now, there's an awesome little web service that will send you an SMS Message letting you know when tickets are available. [WWDC Alerts](http://wwdcalerts.com) is the brainchild of Anthony Herron and Aaron Wardle.

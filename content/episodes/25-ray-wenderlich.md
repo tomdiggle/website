@@ -7,7 +7,7 @@ description:
 categories: game-development
 tags: [cocos2d]
 url: /25-ray-wenderlich
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_25_ray_wenderlich.m4a"]
+attachments: ["nsbrief_25_ray_wenderlich.m4a"]
 ---
 
 Ray Wenderlich ([@raywenderlich](http://www.twitter.com/raywenderlich)) is an indy iOS developer, and co-author of the book '<em>Learning Cocos2d</em>'. Ray, in conjunction with a team of other indy developers, regular writes for his iOS tutorial site, [raywenderlich.com](http://www.raywenderlich.com), and has recently self published a new ebook [iOS5 by Tutorials](http://www.raywenderlich.com/store/ios-5-by-tutorials).

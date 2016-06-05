@@ -5,7 +5,7 @@ duration: '1:34:55'
 description:
 categories: Development
 tags: [testing]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_97_jon_reid.m4a"]
+attachments: ["nsbrief_97_jon_reid.m4a"]
 episode_number: 97
 url: /97-jon-reid
 ---

@@ -7,7 +7,7 @@ categories: [development]
 tags: [distributed objects, xpc]
 url: /86-graham-lee
 episode_number: 86
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_86_Graham_Lee.m4a"]
+attachments: ["NSBrief_86_Graham_Lee.m4a"]
 ---
 
 Graham Lee ([@secboffin](http://twitter.com/secboffin)) is the Chief Security Boffin at Agant Ltd, a small development agency in the UK. In somewhat of a followup from our chat on GNUStep, we talk about distributed objects in Cocoa. We eventually talk about what we should be using these days, instead.

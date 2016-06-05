@@ -6,7 +6,7 @@ tags: [hybrid apps]
 categories: [design, development]
 url: /76-anne-halsall
 episode_number: 76
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_76_anne_halsall.m4a"]
+attachments: ["nsbrief_76_anne_halsall.m4a"]
 ---
 
 Anne Halsall ([@annekate](https://twitter.com/annekate)) is a Product Designer at [Quora](http://quora.com). She's helped design and build the Quora app available in the iTunes App Store. In this episode, we talk about hybrid apps, how they are still relevant in today's native app landscape, and some techniques for making your hybrid apps not feel like hybrid apps.

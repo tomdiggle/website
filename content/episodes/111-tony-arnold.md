@@ -6,7 +6,7 @@ episode_number: 111
 description:
 categories: [life, open source]
 url: /111-tony-arnold
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_111_tony_arnold.m4a"]
+attachments: ["nsbrief_111_tony_arnold.m4a"]
 ---
 
 Tony Arnold ([@tonyarnold](http://tonyarnold.com)) is the lead Developer at [Cocoabots](http://thecocoabots.com). In this episode, we talk about life and open source.

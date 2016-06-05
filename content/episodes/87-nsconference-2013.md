@@ -1,7 +1,7 @@
 ---
 title: NSConference 2013
 episode_number: 87
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_87_nsconference.m4a"]
+attachments: ["nsbrief_87_nsconference.m4a"]
 date: '2013-03-12'
 duration: '1:30:51'
 description:

@@ -6,7 +6,7 @@ description:
 categories: [Conversation]
 tags: [Conferences, Careers, podcasting]
 episode_number: 116
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_116_Guy_English.m4a"]
+attachments: ["NSBrief_116_Guy_English.m4a"]
 url: /116-guy-english
 ---
 

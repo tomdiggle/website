@@ -5,7 +5,7 @@ duration: '1:12:26'
 description:
 categories: [History]
 url: /115-tim-burks
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_115_Tim_Burks.m4a"]
+attachments: ["NSBrief_115_Tim_Burks.m4a"]
 episode_number: 115
 ---
 

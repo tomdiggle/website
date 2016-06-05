@@ -7,7 +7,7 @@ categories: [Code]
 tags: ["C++", Objective-C++]
 episode_number: 113
 url: /113-uli-kusterer
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_113_Uli_Kusterer.m4a"]
+attachments: ["NSBrief_113_Uli_Kusterer.m4a"]
 ---
 
 Uli Kusterer ([@uliwitness](http://twitter.com/uliwitness)) is a developer a [Elgato](http://www.elgato.com). In this episode, we explore the crazy world of Objective C++ in all it's glory!

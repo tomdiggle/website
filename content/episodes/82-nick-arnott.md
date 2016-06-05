@@ -7,7 +7,7 @@ categories: [testing]
 tags: [development, testing, QA]
 episode_number: 82
 url: /82-nick-arnott
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_82_nick_arnott.m4a"]
+attachments: ["nsbrief_82_nick_arnott.m4a"]
 ---
 
 Nick Arnott ([@noir](http://twitter.com/noir)) is the head of Quality Assurance at [Double Encore](http://doubleencore.com). Nick has recently been blogging about breaking apps, and we talk about some things to try before you ship your apps.

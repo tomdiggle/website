@@ -6,7 +6,7 @@ url: /68-the-dark-sky-team
 episode_number: 68
 categories: general
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_68_the_dark_sky_team.m4a"]
+attachments: ["nsbrief_68_the_dark_sky_team.m4a"]
 ---
 
 Jack Turner and Adam Grossman ([@darkskyapp](http://twitter.com/darkskyapp)) are the developers behind the hyperlocal weather forecasting app, Dark Sky. In this episode, we chat about how to predict and render hyper local weather forecasts.

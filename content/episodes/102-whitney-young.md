@@ -4,7 +4,7 @@ date: '2013-07-15'
 duration: '1:51:44'
 url: 102-whitney-young
 episode_number: 102
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_102_whitney_young.m4a"]
+attachments: ["nsbrief_102_whitney_young.m4a"]
 description:
 categories: [Development]
 tags: ["Core Data", "Advanced"]

@@ -7,7 +7,7 @@ duration: '1:17:22'
 description:
 categories: development, business
 tags: [live]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_28_cocoaconfspeakerpanel.m4a"]
+attachments: ["nsbrief_28_cocoaconfspeakerpanel.m4a"]
 ---
 
 CocoaConf is an intimate event for new and experienced Cocoa developers. In this episode, we join the Speaker Panel session held on the second day of the conference in Raleigh, NC 2011.

@@ -6,7 +6,7 @@ url: /52-paul-darcey
 episode_number: 52
 categories: general
 tags: [appsterdam]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_52_paul_darcey.m4a"]
+attachments: ["nsbrief_52_paul_darcey.m4a"]
 ---
 
 Paul Darcey ([@pauldarcey](http://twitter.com/pauldarcey)) is the new CEO of Appsterdam. In this episode, we chat about how he got involved in Appsterdam, and what the future of Appsterdam holds for App Makers worldwide.

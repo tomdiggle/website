@@ -7,7 +7,7 @@ categories: Audio
 tags: [books, conference]
 episode_number: 138
 url: /138-chris-adamson
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_138_chris_adamson.m4a"]
+attachments: ["nsbrief_138_chris_adamson.m4a"]
 ---
 
 Chris Adamson([@invalidname](http://twitter.com/invalidname)) is an independent iOS developer, author, and conference speaker. Janie and Chris discuss his most recent book and his experiences on the conference circuit.

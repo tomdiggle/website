@@ -7,7 +7,7 @@ description:
 categories:
 tags: [wwdc]
 url: /15-klaas-pieter
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_15_klaas_peiter.m4a"]
+attachments: ["nsbrief_15_klaas_peiter.m4a"]
 ---
 
 Klaas is a Mac, iOS and web developer and is also a Core Committer to the Cappuccino web Framework. In this interview, we discuss his recent contributions to the Cappuccino project as well as what Cocoa developers can expect when they develop for the with with Cappuccino.

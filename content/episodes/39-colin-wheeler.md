@@ -7,7 +7,7 @@ duration: '1:05:00'
 description:
 categories: development
 tags: [ui]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_39_colin_wheeler.m4a"]
+attachments: ["nsbrief_39_colin_wheeler.m4a"]
 ---
 
 Colin Wheeler ([@CocoaSamurai](http://twitter.com/cocoasamurai)) is a Cocoa and iOS developer and runs his local [Cocoaheads](http://cocoaheads.org/us/DesMoinesIowa/index.html) and NSCoderNights in Des Moines, Iowa. He recently gave a presentation on alternative UI frameworks for Mac Application Development, and we discuss them in detail.

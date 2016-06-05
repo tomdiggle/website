@@ -6,7 +6,7 @@ description:
 categories: [Development]
 tags: [AppleTV, hacking, cracking]
 episode_number: 98
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_98_jim_dovey.m4a"]
+attachments: ["nsbrief_98_jim_dovey.m4a"]
 url: /98-jim-dovey
 ---
 

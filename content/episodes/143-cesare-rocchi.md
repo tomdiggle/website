@@ -7,7 +7,7 @@ categories:
 tags: [AppStore, business, web]
 episode_number: 143
 url: /143-cesare-rocchi
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_143_cesare_rocchi.m4a"]
+attachments: ["nsbrief_143_cesare_rocchi.m4a"]
 ---
 
 Cesare Rocchi ([@_funkyboy](http://twitter.com/_funkyboy)) is the owner of [Studio Magnolia](http://studiomagnolia.com). In this episode, Cesare and Janie discuss the possible ways to make a living as a developer on the AppStore in the post gold rush age.

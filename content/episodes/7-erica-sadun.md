@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 7
 url: /7-erica-sadun
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_7_erica_sadun.mp3"]
+attachments: ["nsbrief_7_erica_sadun.mp3"]
 ---
 
 Saul chats with TUAW Blogger Erica Sadun about her work on reverse engineering the AirPlay protocol in the new AppleTV 2. Follow Erica's nerdy adventures on twitter: [@ericasadun](https://twitter.com/@ericasadun).

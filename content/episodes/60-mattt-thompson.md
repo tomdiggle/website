@@ -6,7 +6,7 @@ url: /60-mattt-thopmson
 episode_number: 60
 categories: development
 tags: [open source]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_60_mattt_thompson.m4a"]
+attachments: ["nsbrief_60_mattt_thompson.m4a"]
 ---
 
 [Mattt Thompson](http://mattt.me) ([@mattt](http://twitter.com/mattt)) is a prolific iOS and Ruby developer. You may know him from his work with [AFNetworking](http://afnetworking.com), however he is also the mastermind behind [NSHipster](http://nshipster.com), and other awesome cocoa blogs and tools. In this episode, we discuss Heroku for iOS apps, and how to be productive with your developer projects.

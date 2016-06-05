@@ -7,7 +7,7 @@ description:
 categories: game-development
 tags: [360idev]
 url: /21-mobile-gaming-at-360idev
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_21_mobile_gaming_at_360idev.m4a"]
+attachments: ["nsbrief_21_mobile_gaming_at_360idev.m4a"]
 ---
 
 360idev is the largest and best indie iOS developer conference. I had a chance to talk to David Whatley from Simutronics, Markus Nigrin and Bill and Andrew Dudney about their experiences and perceptions on the mobile game development industry.

@@ -6,7 +6,7 @@ url: /92-michael-jurewitz
 categories: [business]
 tags: [app-store, marketing, apps]
 episode_number: 92
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_92_michael_jurwitz.m4a"]
+attachments: ["nsbrief_92_michael_jurwitz.m4a"]
 ---
 
 Michael Jurewitz ([@jury](http://twitter.com/jury)) is back working at Apple, a small fruit company in Cupertino, CA. Previously, he was head of product design at [Black Pixel](http://blackpixel.com), and prior to that, he was a Developer Tools Evangelist, also at Apple. In this episode, we talk to Michael Jurewitz about things you can do to be more successful in the either the iOS or Mac App Stores.

@@ -5,7 +5,7 @@ duration: '1:32:12'
 description:
 categories:
 url: /119-krzysztof-zablocki
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/NSBrief_119_Kyzystof_Zabloki.m4a"]
+attachments: ["NSBrief_119_Kyzystof_Zabloki.m4a"]
 episode_number: 119
 ---
 

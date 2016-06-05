@@ -7,7 +7,7 @@ categories: [Productivity]
 tags: [behavior, motivation, conference]
 url: /101-linda-rising
 episode_number: 101
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_101_linda_rising.m4a"]
+attachments: ["nsbrief_101_linda_rising.m4a"]
 ---
 
 Linda Rising ([@RisingLinda](http://twitter.com/risinglinda)) has a Ph.D. from Arizona State University in the field of object-based design metrics and a background that includes university teaching and industry work in telecommunications, avionics, and strategic weapons systems. An internationally known presenter on topics related to patterns, retrospectives, agile development approaches, and the change process, Linda is the author of numerous articles and four books: [Design Patterns in Communications Software (SIGS Reference Library)](http://www.amazon.com/gp/product/0521790409/ref=as_li_tf_tl?ie=UTF8&tag=g0eaa-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0521790409), [The Pattern Almanac 2000](http://www.amazon.com/gp/product/0201615673/ref=as_li_tf_tl?ie=UTF8&tag=g0eaa-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201615673),  [The Patterns Handbook: Techniques, Strategies, and Applications (SIGS Reference Library)](http://www.amazon.com/gp/product/0521648181/ref=as_li_tf_tl?ie=UTF8&tag=g0eaa-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0521648181), and [Fearless Change: Patterns for Introducing New Ideas](http://www.amazon.com/gp/product/0201741571/ref=as_li_tf_tl?ie=UTF8&tag=g0eaa-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201741571).

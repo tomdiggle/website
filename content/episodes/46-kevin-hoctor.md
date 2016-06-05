@@ -7,7 +7,7 @@ duration: '1:17:39'
 description:
 categories: business
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_46_kevin_hoctor.m4a"]
+attachments: ["nsbrief_46_kevin_hoctor.m4a"]
 ---
 
 Kevin Hoctor ([@kevinhoctor](http://twitter.com/kevinhoctor)) is the owner of [No Thirst Software](http://nothirst.com/), developers of [Debt Quencher](http://nothirst.com/debtquencher/) and the popular finance management application, [MoneyWell](http://nothirst.com/moneywell/) for Mac and iOS. In this episode, we talk to the wise Hoctor about making mistakes in your business.

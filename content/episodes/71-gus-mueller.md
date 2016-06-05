@@ -6,7 +6,7 @@ episode_number: 71
 url: 71-gus-mueller
 categories: development
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_71_gus_mueller.m4a"]
+attachments: ["nsbrief_71_gus_mueller.m4a"]
 ---
 
 Gus Mueller ([@ccgus](http://twitter.com/ccgus)) is the man behind [Flying Meat](http://flyingmeat.com), makers of popular Mac applications such Acorn and Voodoo Pad. Flying Meat is also responsible for bringing a database to the iPhone OS with FMDB in the early days of iPhone programming.

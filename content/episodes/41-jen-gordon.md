@@ -7,7 +7,7 @@ duration: '1:01:53'
 description:
 categories: design
 tags: [ui]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_41_jen_gordon.m4a"]
+attachments: ["nsbrief_41_jen_gordon.m4a"]
 ---
 
 Jen Gordon ([@itsjengordon](http://twitter.com/itsjengordon)) is a designer and marketer who started her own business called Tapptics. Tapptics provides instruction for developers who want to design and implement custom artwork without the help of a designer. In this episode, we talk about how she started her business, and how Tapptics can help indie developers on a budget design great looking apps. Get all [Tapptics.com](http://tapptics.com) content for $149 by simply [filling out this survey](http://www.tapptics.com/feedback-form/).

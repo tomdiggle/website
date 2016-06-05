@@ -6,7 +6,7 @@ url: /61-chris-forsythe
 episode_number: 61
 categories: general
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_61_chris_forsythe.m4a"]
+attachments: ["nsbrief_61_chris_forsythe.m4a"]
 ---
 
 Chris Forsythe ([@the\_tick](http://twitter.com/the_tick)) is the CEO of [Growl](http://growl.info), the open source Mac Desktop notification system. In this episode, we talk about the history of growl, and the upcoming release and what it means with Mac OS X Mountain Lion.

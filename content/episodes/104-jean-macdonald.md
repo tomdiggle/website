@@ -7,7 +7,7 @@ tags: ["Community", "Teaching", "Kids"]
 categories: Events
 episode_number: 104
 url: /104-jean-macdonald
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_104_jean_macdonald.m4a"]
+attachments: ["nsbrief_104_jean_macdonald.m4a"]
 ---
 
 Jean MacDonald ([@macgenie](http://twitter.com/macgenie)) is a Partner at [Smile on My Mac](http://smileonmymac.com) and the Founder of [The App Camp for Girls](http://appcamp4girls.com), an initiative to help introduce girls to the dirty work of making iOS apps.

@@ -6,7 +6,7 @@ description:
 categories: [Business]
 tags: []
 url: /95-dave-addey
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_95_dave_addey.m4a"]
+attachments: ["nsbrief_95_dave_addey.m4a"]
 episode_number: 95
 ---
 

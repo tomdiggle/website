@@ -7,7 +7,7 @@ categories:
 tags: [Core Data, Live, 360idev, Wordpress]
 episode_number: 129
 url: /129-aaron-douglas
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_129_aaron_douglas.m4a"]
+attachments: ["nsbrief_129_aaron_douglas.m4a"]
 ---
 
 Aaron Douglas ([@astralbodies](http://twitter.com/astralbodies)) is an engineer at [Automattic](http://automattic.com), the company behind [Wordpress](http://wordpress.com) and the Wordpress iOS application. Saul and Aaron chat about coordinating and contributing an open source project, application architecture and Core Data.

@@ -7,7 +7,7 @@ categories:
 tags: [mentoring, careers]
 episode_number: 142
 url: /142-ellen-shapiro
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_141_ellen_shapiro.m4a"]
+attachments: ["nsbrief_141_ellen_shapiro.m4a"]
 ---
 
 Ellen Shapiro ([@designatednerd](http://twitter.com/designatednerd)) is a developer, speaker, and tutorial author in Chicago. She currently works for [Vokal Interactive](http://www.vokal.io). She talks about her previous life in Hollywood and her passionate belief in mentorship.

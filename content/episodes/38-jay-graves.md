@@ -7,7 +7,7 @@ duration: '50:34'
 description:
 categories: deployment
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_38_jay_graves.m4a"]
+attachments: ["nsbrief_38_jay_graves.m4a"]
 ---
 
 Jay Graves ([@skabber](http://twitter.com/skabber)) is the CTO at [Double Encore](http://www.doubleencore.com), Inc, an iOS (and Android) consulting agency based in Denver, Colorado. Part of being a consulting agency with large and demanding clients, Double Encore has to operate differently than other indie consulting shops. In this episode, we take a look at some of the challenges Double Encore has faced, and how they solved them.

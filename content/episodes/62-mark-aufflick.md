@@ -6,7 +6,7 @@ url: /62-mark-aufflick
 episode_number: 62
 categories: business
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_62_mark_aufflick.m4a"]
+attachments: ["nsbrief_62_mark_aufflick.m4a"]
 ---
 
 Mark Aufflick ([@markaufflick](http://twitter.com/markaufflick)) is an indie Cocoa developer writing Mac and iOS apps. Mark is also one of the organizers of [SwipeConf](http://swipeconference.com.au/), Australia's first iOS Developer conference. In this episode, we talk about the topic most frequently asked of Mark at his regular Cocoaheads meeting: How do I quit my job and become an independent contractor.

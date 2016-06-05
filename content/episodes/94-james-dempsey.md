@@ -7,7 +7,7 @@ categories:
 tags: [music, bootleg, cocoaconf]
 url: /94-james-dempsey
 episode_number: 94
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_94_james_dempsey.m4a"]
+attachments: ["nsbrief_94_james_dempsey.m4a"]
 ---
 
 James Dempsey ([@jamesdempsey](http://twitter.com/jamesdempsey)) is a former Apple employee who had a special flare for making certain WWDC sessions special, he would bust out in song on stage for the luck folk who attended his talk. In this episode, we talk to James about his path to nerd song stardom!

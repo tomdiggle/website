@@ -7,7 +7,7 @@ categories:
 tags: []
 episode_number: 8
 url: /8-jiva-devoe
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_8_jiva_devoe.mp3"]
+attachments: ["nsbrief_8_jiva_devoe.mp3"]
 ---
 
 Saul and Jiva talk about the cross platform architecture of the new todo list app, Wasabi, from Random Ideas Software. We also get to discussions on MVC, Blocks and code organization.

@@ -7,7 +7,7 @@ duration: '1:15:30'
 description:
 categories:
 tags: [icloud, core data]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_30_rich_warren.m4a"]
+attachments: ["nsbrief_30_rich_warren.m4a"]
 ---
 
 Rich Warren ([@rikiwarren](http://twitter.com/rikiwarren)) is the chief Scientist at [Freelance Mad Science Labs](http://freelancemadscience.com) as a contract iOS Developer. He has also written several apps in the app store, and has written several articles for [MacTech Magazine](http://mactech.com). Rich is also the author of [Creating iOS 5 Apps: Design and Development](http://amzn.com/0321769600), and he joins Saul for a chat on iCloud.

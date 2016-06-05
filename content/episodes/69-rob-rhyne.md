@@ -6,7 +6,7 @@ url: /69-rob-rhyne
 episode_number: 69
 categories: [business, development]
 tags: []
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_69_rob_rhyne.m4a"]
+attachments: ["nsbrief_69_rob_rhyne.m4a"]
 ---
 
 Rob Rhyne ([@capttaco](http://twitter.com/capttaco)) is a Co-Founder of [MartianCraft](http://martiancraft.com), a botique iOS Development shop. Rob recently launched a photo app for iPhone called Pris. Saul and Rob, mostly Rob, talk about some of the details to push AVFoundation to the limit. We also discuss what Rob has learned about running your indie business.

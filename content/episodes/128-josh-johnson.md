@@ -7,7 +7,7 @@ categories: Testing
 tags: [network]
 episode_number: 128
 url: /128-josh-johnson
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_128_josh_johnson.m4a"]
+attachments: ["nsbrief_128_josh_johnson.m4a"]
 ---
 
 Josh Johnson ([@jnjosh](http://twitter.com/jnjosh)) is an iOS developer at Two Toasters. After Cocoaconf Raleigh 2014, Josh and I talked about his talk on dealing with network APIs.

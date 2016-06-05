@@ -6,7 +6,7 @@ description:
 categories: [Development]
 episode_number: 96
 url: /96-ash-furrow
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_96_ash_furrow.m4a"]
+attachments: ["nsbrief_96_ash_furrow.m4a"]
 ---
 
 Ash Furrow ([@ashfurrow](http://twitter.com/ashfurrow)) is a developer at [teehan+lax](http://teehanlax.com) and formerly the lead iOS Engineer at 500px. 

@@ -7,7 +7,7 @@ duration: '1:06:02'
 description:
 categories: [Development]
 tags: [bluetooth, hardware]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_88_bob_kressin.m4a"]
+attachments: ["nsbrief_88_bob_kressin.m4a"]
 ---
 
 Bob Kressin ([@macisv](http://twitter.com/macisv)) joins us to talk about the amazing app opportunities in developing apps that talk to bluetooth LE based hardware. But first, Kiana and Saul discuss the recent gathering of mobile developers at Mdevcon in Amsterdam

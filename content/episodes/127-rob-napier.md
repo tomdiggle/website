@@ -7,7 +7,7 @@ categories: Security
 tags: [security]
 episode_number: 127
 url: /127-rob-napier
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_127_rob_napier.m4a"]
+attachments: ["nsbrief_127_rob_napier.m4a"]
 ---
 
 Rob Napier ([@cocoaphony](http://twitter.com/cocoaphony)) is a Mac developer for [Dell](http://www.businessinsider.com/michael-dell-1997-apple-quote-2013-2). In this conversation recorded after a recent Cocoaconf, we talk about Security, what it means for developers and what reasonable precautions you should take to protect your apps.

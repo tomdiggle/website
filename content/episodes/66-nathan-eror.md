@@ -6,7 +6,7 @@ url: /66-nathan-eror
 episode_number: 66
 categories: development
 tags: [tips]
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_66_nathan_eror.m4a"]
+attachments: ["nsbrief_66_nathan_eror.m4a"]
 ---
 
 Nathan Eror ([@neror](http://twitter.com/neror)) is an independent iOS developer. Original setting out to write games, he has learned ways to make himself a more efficient developer by maximizing his developer toolset.

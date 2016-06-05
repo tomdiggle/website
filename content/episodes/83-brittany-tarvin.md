@@ -7,7 +7,7 @@ categories: [development]
 tags: [mac, women]
 url: /83-brittany-tarvin
 episode_number: 83
-attachment: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_83_brittany_tarvin.m4a"]
+attachment: ["nsbrief_83_brittany_tarvin.m4a"]
 ---
 
 Brittany Tarvin ([@wildchocolate](http://twitter.com/wildchocolate)) is a developer at Fading Red, makers of fine Mac Apps. In this episode, we chat about Mac development, and about women in technology.

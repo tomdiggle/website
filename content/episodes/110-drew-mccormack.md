@@ -7,7 +7,7 @@ categories: [data]
 tags: [Core Data]
 episode_number: 110
 url: /110-drew-mccormack
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_110_drew_mccormack.m4a"]
+attachments: ["nsbrief_110_drew_mccormack.m4a"]
 ---
 
 Drew McCormack ([@drewmccormack](http://twitter.com/drewmccormack)) is the founder of the Mental Faculty, an independent developer based in The Netherlands. Recently, Drew introduced a new, open source cloud syncing framework for Core Data called [Core Data Ensembles](http://github.com/drewmccormack/ensembles). I recently caught up with Drew to discuss this new open source framework.

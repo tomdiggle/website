@@ -7,7 +7,7 @@ categories: Projects
 tags: [open-source, maintainence, core-plot]
 episode_number: 139
 url: /139-eric-skroch
-attachments: ["http://media.blubrry.com/nsbrief/nsbrief.com/episodes/nsbrief_139_eric_skroch.m4a"]
+attachments: ["nsbrief_139_eric_skroch.m4a"]
 ---
 
 
