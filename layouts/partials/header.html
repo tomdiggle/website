@@ -17,8 +17,8 @@
 
   {{ if isset .Params "episode_number" }}
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@nsbrief" />
-  <meta name="twitter:title" content="NSBrief #{{ .Params.episode_number }}: {{ .Title }}" />
+  <meta name="twitter:site" content="@{{ .Site.Params.show.twitter }}" />
+  <meta name="twitter:title" content="{{ .Site.Params.show.name }} #{{ .Params.episode_number }}: {{ .Title }}" />
   <meta name="twitter:description" content="{{ .Summary }}" />
   <meta name="twitter:image" content="{{ $media }}/touch-icon.png" />
   {{ end }}
