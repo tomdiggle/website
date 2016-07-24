@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 {{ $baseURL := .Site.BaseURL }}
@@ -15,13 +15,16 @@
   <meta name="description" content="{{ . }}" />
   {{ end }}
 
-  {{ if isset .Params "episode_number" }}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{ .Site.Params.show.twitter }}" />
-  <meta name="twitter:title" content="{{ .Site.Params.show.name }} #{{ .Params.episode_number }}: {{ .Title }}" />
-  <meta name="twitter:description" content="{{ .Summary }}" />
-  <meta name="twitter:image" content="{{ $media }}/touch-icon.png" />
+  {{ if isset .Params "episode_number" }}
+    <meta name="twitter:title" content="{{ .Site.Params.show.name }} #{{ .Params.episode_number }}: {{ .Title }}" />
+    <meta name="twitter:description" content="{{ .Summary }}" />
+  {{ else }}
+    <meta name="twitter:title" content="{{ if .IsHome }}Home - {{ .Site.Params.show.name }}{{ else }}{{ .Title }}{{ end }}" />
+    <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
   {{ end }}
+  <meta name="twitter:image" content="{{ $media }}/touch-icon.png" />
 
   <link rel="stylesheet" href="{{ $styles }}/nsbrief.css" />
   <link rel="stylesheet" href="{{ $styles }}/nsbrief-fonts.css" />
