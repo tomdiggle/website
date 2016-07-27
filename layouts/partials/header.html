@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns#">
 
 {{ $baseURL := .Site.BaseURL }}
 {{ $media := print $baseURL "images" | safeURL }}
@@ -15,10 +15,14 @@
   <meta name="description" content="{{ . }}" />
   {{ end }}
 
+  <meta property="og:title" content="{{ if .Params.episode_number }}{{ .Site.Title }} #{{ .Params.episode_number }}: {{ .Title }}{{ else }}{{ .Title }}{{ end }}" />
+  <meta property="og:description" content="{{ if .Params.episode_number }}{{ .Summary }}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:image" content="{{ $media }}/touch-icon.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{ .Site.Params.show.twitter }}" />
-  <meta name="twitter:title" content="{{ if .Params.episode_number }}{{ .Site.Title }} #{{ .Params.episode_number }}: {{ .Title }}{{ else }}{{ .Title }}{{ end }}" />
-  <meta name="twitter:description" content="{{ if .Params.episode_number }}{{ .Summary }}{{ else }}{{ .Description }}{{ end }}" />
   <meta name="twitter:image" content="{{ $media }}/touch-icon.png" />
 
   <link rel="stylesheet" href="{{ $styles }}/nsbrief.css" />
