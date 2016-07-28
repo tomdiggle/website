@@ -1,5 +1,6 @@
 ---
 title: Sponsor NSBrief
+description: Help support NSBrief
 ---
 
 <div class="post">

@@ -4,7 +4,7 @@ languageCode: "en-us"
 disableRSS: true
 disableSitemap: true
 metaDataFormat: "yaml"
-title: NSBrief.com
+title: NSBrief
 
 params:
   description: A podcast for Cocoa developers
