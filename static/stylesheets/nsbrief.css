@@ -113,6 +113,10 @@ hr {
     margin: .8em auto;
 }
 
+.site-branding {
+    padding: 0 0 1em;
+}
+
 .site-branding__logo {
     display: block;
     margin: 0 auto;
