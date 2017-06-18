@@ -1,5 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
-@import url(http://fonts.googleapis.com/css?family=Rokkitt:700);
 
 /*! Responsive Grid */
 .container {
@@ -10,7 +9,7 @@
 }
 
 .row {
-    clear:both;
+    clear: both;
     margin: 0;
     width: 100%;
 }
@@ -109,36 +108,15 @@ hr {
     padding: 1em 0 0 0;
 }
 
-.header h1 {
-    margin: 0 auto;
-    background: url("/images/NSBrief-Logo.png") top left no-repeat;
-    width: 80px;
-    height: 80px;
-}
-
-.header h1 a {
-    display: block;
-    height: 100%;
-    width: 100%;
-    text-indent: -9999px;
-}
-
-.header h2 {
-    font-family: 'Rokkitt', serif;
-    font-size: 2.75em;
-    font-weight: 700;
-    letter-spacing: .04em;
-}
-
-.header h2 a,
-.header h2 a:hover {
-    color: #333333;
-    text-decoration: none;
-}
-
 .header hr {
     width: 75%;
     margin: .8em auto;
+}
+
+.site-branding__logo {
+    display: block;
+    margin: 0 auto;
+    padding: 0 0 .4em;
 }
 
 /*! Subscribe **/
