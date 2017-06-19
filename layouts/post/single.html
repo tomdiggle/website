@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+{{ partial "page_header" . }}
+
+<article id="post" class="post">
+    <header class="post__header">
+        <h1>{{ .Title }}</h1>
+        <time datetime="{{ .Date.Format "2006-01-02" }}" content="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{.Date.Format "2006 January 2"}}</time>
+    </header>
+
+    {{ .Content }}
+</article>
+
+{{ partial "footer" . }}
