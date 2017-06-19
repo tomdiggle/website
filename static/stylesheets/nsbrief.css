@@ -370,13 +370,6 @@ hr {
 }
 
 /*! Media Queries */
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) { 
-    .header h1 {
-        background: url("/images/NSBrief-Logo@2x.png") top left no-repeat;
-        background-size: 80px 80px;
-    }
-}
-
 @media screen and (max-width: 640px) {
     .episode .description ul {
         -webkit-column-count: 1;
