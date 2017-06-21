@@ -1,9 +1,10 @@
 ---
+author: "Saul Mora"
+category: "Example"
 date: "2017-06-19T13:24:11+01:00"
+description: "This is an example post and should be deleted when the blog is live"
 draft: false
 title: "Example Post"
-description: "This is an example post and should be deleted when the blog is live"
-category: "Example"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida, ligula at laoreet varius, ipsum mauris mollis elit, ac posuere nisl turpis at sem. Nam dignissim feugiat hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ac semper augue, a dictum lectus. Sed velit turpis, accumsan a cursus non, condimentum vestibulum dolor. Vivamus porta id justo nec pharetra. Sed tristique, odio at euismod iaculis, risus ligula tincidunt quam, blandit maximus sem sem at nunc. Morbi a nibh at mauris ullamcorper gravida sed et ligula. In non porta est, et efficitur metus. Vestibulum auctor nisi non posuere interdum. Aenean vitae augue blandit, rutrum ex ac, pulvinar elit.

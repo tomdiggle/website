@@ -1,9 +1,9 @@
 /*! Responsive Grid */
 .container {
     margin: 0 auto;
-    width: 90%;
-    max-width: 800px;
     position: relative;
+    max-width: 800px;
+    width: 800px;
 }
 
 .row {
@@ -394,3 +394,8 @@ hr {
 .cf:before,.cf:after {display:table; content:"";}
 .cf:after {clear:both;}
 .cf {zoom:1;}
+
+/** Helpers */
+.has-text-centered {
+    text-align: center;
+}
