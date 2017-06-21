@@ -1,7 +1,7 @@
 <header class="row header">
   <div class="container">
     <div class="grid-45 mobile-grid-100">
-      <div class="site-branding">
+      <div class="site-branding has-text-centered">
         <a href="{{ .Site.BaseURL }}" title="{{ .Site.Params.show.name }}">
           <img src="{{ .Site.BaseURL }}images/logo-nsbrief.png" srcset="{{ .Site.BaseURL }}images/logo-nsbrief.png 1x, {{ .Site.BaseURL }}images/logo-nsbrief-2x.png 2x" width="80" height="80" alt="{{ .Site.Params.show.name }}" class="site-branding__logo">
           <svg xmlns="http://www.w3.org/2000/svg" width="156" height="31" viewBox="0 0 156 31">
@@ -11,7 +11,7 @@
       </div>
     </div>
 
-    <div class="grid-55 mobile-grid-100">
+    <div class="grid-55 mobile-grid-100 has-text-centered">
       <p>{{ .Site.Params.show.intro }}</p>
       <p>Hosted by <a href="https://twitter.com/{{ .Site.Params.show.host.twitter }}" title="{{ .Site.Params.show.host.name }} on Twitter">{{ .Site.Params.show.host.name }}</a></p>
       <hr>
