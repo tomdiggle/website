@@ -6,9 +6,6 @@ disableSitemap: true
 metaDataFormat: "yaml"
 title: NSBrief
 
-permalinks:
-  post: blog/:title/
-
 params:
   description: A podcast for Cocoa developers
   author:
