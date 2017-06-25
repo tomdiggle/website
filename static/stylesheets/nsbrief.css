@@ -267,6 +267,11 @@ hr {
     padding: 1em 0;
 }
 
+.post__read-on {
+    display: block;
+    padding: 1em 0;
+}
+
 .post-title {
     margin: 1em auto;
     padding: .5em 0;
