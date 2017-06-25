@@ -3,7 +3,6 @@
     margin: 0 auto;
     position: relative;
     max-width: 800px;
-    width: 800px;
 }
 
 .row {
@@ -37,6 +36,14 @@
 /*! Layout */
 * {
     margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+blockquote {
+    margin-bottom: 1em;
 }
 
 body {
@@ -251,7 +258,15 @@ hr {
     margin: 1em 0 1em 0;
 }
 
-/*! Post */
+/** Post */
+.post {
+    padding: 0 1em;
+}
+
+.post__header {
+    padding: 1em 0;
+}
+
 .post-title {
     margin: 1em auto;
     padding: .5em 0;
@@ -287,6 +302,17 @@ hr {
 
 .footer p {
     margin: .25em 0;
+}
+
+/** Content */
+.content p {
+    margin-bottom: 1em;
+}
+
+.content blockquote {
+    background-color: whitesmoke;
+    border-left: 5px solid #8FDBF8;
+    padding: 1.25em 1.5em;
 }
 
 /*! Brief Player Default Theme */
@@ -398,4 +424,13 @@ hr {
 /** Helpers */
 .has-text-centered {
     text-align: center;
+}
+
+/** Elements */
+.title {
+    word-break: break-word;
+    color: #4A90E2;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.125;
 }
