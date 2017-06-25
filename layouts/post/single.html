@@ -1,8 +1,8 @@
 {{ partial "header" . }}
 {{ partial "page_header" . }}
 
-<div class="container">
-    <article id="post" class="post">
+<article id="post" class="post">
+    <div class="container">
         <header class="post__header has-text-centered">
             <h1 class="title">{{ .Title }}</h1>
             <p class="post__meta">
@@ -16,7 +16,7 @@
         <div class="content">
             {{ .Content }}
         </div>
-    </article>
-</div>
+    </div>
+</article>
 
 {{ partial "footer" . }}
