@@ -1,10 +1,13 @@
 ---
 baseurl: "http://nsbrief.com/"
 languageCode: "en-us"
-disableRSS: true
-disableSitemap: true
+disableKinds: ["RSS", "sitemap"]
+
 metaDataFormat: "yaml"
 title: NSBrief
+defaultContentLangauge: en
+defaultContentLanguageInSubdir: true
+
 
 params:
   description: A podcast for Cocoa developers
