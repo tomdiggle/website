@@ -1,7 +1,7 @@
 ---
 author: "Saul Mora"
 category: "Example"
-date: "2017-06-19T13:24:11+01:00"
+date: 2017-06-19T13:24:11+01:00
 description: "This is an example post and should be deleted when the blog is live"
 draft: false
 title: "Example Post"
@@ -16,6 +16,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida, ligul
 Etiam non arcu non libero rutrum molestie in nec dolor. Nulla at libero eget nibh lobortis lacinia in at turpis. Pellentesque orci lacus, dignissim vel felis eu, feugiat luctus tellus. Donec ultrices eros est, ac scelerisque tortor placerat ut. Nullam urna ipsum, cursus non ultrices nec, dignissim in leo. Phasellus lobortis, massa in mattis suscipit, lacus est pellentesque lacus, sit amet sagittis velit augue nec eros. Morbi id diam condimentum, elementum ex vel, gravida leo.
 
 ## Proin Faucibus
-Proin faucibus dictum condimentum. Nullam sed mi vel mauris lacinia convallis quis a odio. Proin sit amet vestibulum dolor. In at ultrices sapien. Quisque tempus facilisis ex, a rhoncus nulla maximus sit amet. Phasellus eu aliquet nisl. Aliquam vehicula sem sit amet velit tincidunt aliquam. Pellentesque dignissim lacus at lectus tincidunt faucibus. Donec metus lectus, dapibus et quam non, condimentum fringilla odio. Sed blandit leo eu lacus mattis pharetra. Quisque consequat tempus nulla in tincidunt. Praesent posuere nulla at neque facilisis sollicitudin. Duis egestas tempus nisl, a scelerisque magna gravida eu.
+Proin faucibus dictum condimentum. Nullam sed mi vel mauris lacinia convallis quis a odio. Proin sit amet vestibulum dolor. In at ultrices sapien. Quisque `tempus` facilisis ex, a rhoncus nulla maximus sit amet. Phasellus eu aliquet nisl. Aliquam vehicula sem sit amet velit tincidunt aliquam. Pellentesque dignissim lacus at lectus tincidunt faucibus. Donec metus lectus, dapibus et quam non, condimentum fringilla odio. Sed blandit leo eu lacus mattis pharetra. Quisque consequat `tempus` nulla in tincidunt. Praesent posuere nulla at neque facilisis sollicitudin. Duis egestas `tempus` nisl, a scelerisque magna gravida eu.
+
+```
+    This is a code block with one paragraph. Lorem ipsum dolor sit amet,
+    consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+```
 
 Sed sed enim ligula. Donec nec pellentesque risus. Suspendisse mauris augue, efficitur ut semper eget, fringilla nec orci. Vestibulum in mattis leo, id consequat sem. Aliquam vitae lorem ac erat malesuada scelerisque vitae vitae quam. Suspendisse placerat non nunc pellentesque venenatis. In sollicitudin eros id turpis posuere, ac rhoncus metus hendrerit. Pellentesque facilisis laoreet nisl vel mollis. Sed eu tempus arcu, vitae volutpat nibh. Aenean eget euismod urna. Donec nec sapien eu mauris mattis dignissim in a tellus.
