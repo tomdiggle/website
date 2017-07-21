@@ -320,6 +320,26 @@ hr {
     padding: 1.25em 1.5em;
 }
 
+.content pre {
+    font-family: monospace;
+    background-color: whitesmoke; 
+    overflow-x: auto;
+    margin-bottom: 1em;
+    padding: 1.25em 1.5em;
+    white-space: pre;
+    word-wrap: normal;
+    -webkit-overflow-scrolling: touch;
+    -webkit-font-smoothing: auto;
+}
+
+.content code {
+    padding: 0.5em;
+    margin: 0;
+    background-color: whitesmoke; 
+    border-radius: 3px;
+    word-wrap: break-word;
+}
+
 /*! Brief Player Default Theme */
 .briefplayer {
     margin: 1em 0;
