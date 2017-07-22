@@ -1,0 +1,22 @@
+{{ partial "header" . }}
+{{ partial "page_header" . }}
+
+{{ range (where .Data.Pages "Section" "post") }}
+    <article class="post">
+        <div class="container">
+            <header class="post__header">
+                <h2 class="title">
+                    <a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a>
+                </h2>
+            </header>
+
+            <div class="content">
+                {{ .Summary }}
+            </div>
+
+            <a href="{{ .Permalink }}" title="Read on {{ .Title }}" class="post__read-on">Read on</a>
+        </div>
+    </article>
+{{ end }}
+
+{{ partial "footer" . }}

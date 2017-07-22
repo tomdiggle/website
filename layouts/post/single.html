@@ -1,0 +1,22 @@
+{{ partial "header" . }}
+{{ partial "page_header" . }}
+
+<article id="post" class="post">
+    <div class="container">
+        <header class="post__header has-text-centered">
+            <h1 class="title">{{ .Title }}</h1>
+            <p class="post__meta">
+                {{ $.Param "author" }}
+                <em>
+                    writes on <time datetime="{{ .Date.Format "2006-01-02" }}" content="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ .Date.Format "2006 January 2" }}</time>
+                </em>
+            </p>
+        </header>
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </div>
+</article>
+
+{{ partial "footer" . }}
