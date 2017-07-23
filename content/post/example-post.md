@@ -1,6 +1,7 @@
 ---
 author: "Saul Mora"
 category: "Example"
+comments: false
 date: 2017-06-19T13:24:11+01:00
 description: "This is an example post and should be deleted when the blog is live"
 draft: false
