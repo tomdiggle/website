@@ -20,7 +20,7 @@ Hugo has a built-in server that can serve the NSBrief site locally for easy prev
 ```
 
 ## Authoring an Article
-Use the following command generate a new post. A new file will created in the `_post` directory. Be sure to fill in the variables in the header.
+Use the following command generate a new post. A new file will created in the `content/post` directory. Be sure to fill in the variables in the header.
 
 ```
     hugo new post/hello-world.md
